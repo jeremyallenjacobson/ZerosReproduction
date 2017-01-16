@@ -3,7 +3,8 @@
 In this project, we demonstrate in a Jupyter notebook (the .ipynb file) how to use Python to reproduce the image from page 319 of the paper
 **Zeros of polynomials with 0,1 coefficients'**, B. Poonen, A.M. Odlyzko. *L'Enseignement Math.* **39** (1993), 317-348.
 
-To view the notebook, click here <a href = "ZerosReproduction/PoonenOdlyzkoZerosFigureReproducedPython.html">ZerosReproduction Jupyter notebook </a>
+To view the notebook, click here 
+<a href="jeremyallenjacobson.github.io/ZerosReproduction/PoonenOdlyzkoZerosFigureReproducedPython.html">ZerosReproduction Jupyter notebook </a>
 
 Alternatively, Github has a viewer for Jupyter notebooks. To view the notebook from the Github project page, click on the PoonenOdlyzkoZerosFigureReproducedPython.ipynb file.
 
